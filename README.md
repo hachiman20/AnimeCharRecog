@@ -9,7 +9,9 @@ The approach I used for face recognition is fairly straight forward. The key her
 
 This project only uses 80 images per character for learning, which is a very low number for image recognition learning. However, this number is chosen since the majority of characters have a limited number of arts.
 •	Utilize lbpcascade_animeface to recognize character face from each image
+
 •	Resize each image to 150 x 150 pixels
+
 •	Split images into training & validation before creating the final model
 
 
