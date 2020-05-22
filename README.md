@@ -13,3 +13,8 @@ This project only uses 80 images per character for learning, which is a very low
 •	Split images into training & validation before creating the final model
 
 
+## Demo
+
+<img src="Screenshots/demo1.jpg height=300>
+
+
