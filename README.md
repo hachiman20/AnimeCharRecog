@@ -21,4 +21,4 @@ This project only uses 80 images per character for learning, which is a very low
 <img src="Screenshots/demo4.PNG" height=300>
 <img src="Screenshots/demo5.PNG" height=300>
 
-<a href="hachiman20.github.io/Project%20Report.pdf" class="image fit">Click Here</a>
+<a href="https://hachiman20.github.io/Project%20Report.pdf" class="image fit">Click Here</a>
