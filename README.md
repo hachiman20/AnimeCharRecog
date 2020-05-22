@@ -15,6 +15,10 @@ This project only uses 80 images per character for learning, which is a very low
 
 ## Demo
 
-<img src="Screenshots/demo1.jpg height=300>
+<img src="Screenshots/demo1.PNG" height=300>
+<img src="Screenshots/demo2.PNG" height=300>
+<img src="Screenshots/demo3.PNG" height=300>
+<img src="Screenshots/demo4.PNG" height=300>
+<img src="Screenshots/demo5.PNG" height=300>
 
 
