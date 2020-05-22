@@ -22,21 +22,4 @@ This project only uses 80 images per character for learning, which is a very low
 <img src="Screenshots/demo5.PNG" height=300>
 
 
-## Detailed Project Report
-<style>
-a:link, a:visited {
-  background-color: #f44336;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: red;
-}
-</style>
-
-
-<a href="https://hachiman20.github.io/Project%20Report.pdf" class="image fit">Project Report</a>
+## Detailed Project Report - <a href="https://hachiman20.github.io/Project%20Report.pdf" class="image fit">Project Report</a>
