@@ -23,7 +23,7 @@ This project only uses 80 images per character for learning, which is a very low
 
 
 ## Detailed Project Report
-
+<style>
 a:link, a:visited {
   background-color: #f44336;
   color: white;
@@ -36,7 +36,7 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: red;
 }
-
+</style>
 
 
 <a href="https://hachiman20.github.io/Project%20Report.pdf" class="image fit">Project Report</a>
