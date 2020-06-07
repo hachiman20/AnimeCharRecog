@@ -1,4 +1,4 @@
-# Anime Character Recognition
+# Anime Character Recognizer
 
 ## Introduction
 The aim of this project is to create an image classifier for animated characters. As animation differs vastly due to different art styles, so here I have chosen the most popular ones amongst them - the Japanese anime characters.
